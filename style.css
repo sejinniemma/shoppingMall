@@ -95,7 +95,14 @@
     background-color: white;
     padding: var(--base-space);
     margin-bottom: var(--base-space);
+    visibility: visible;
   }
+
+  .item .invisible {
+    visibility: hidden; 
+   }
+
+  
 
 .item__thumbnail {
     width: var(--size-thumbnail);
