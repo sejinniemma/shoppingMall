@@ -11,8 +11,8 @@ https://user-images.githubusercontent.com/80943394/132836736-d27d14e5-b27b-4893-
 
 2. Fetch
 - I called items from 'data.json' file using 'fetch'
-- I made displayItems(items) which show item and
-- make setEventListener(items) which is filtered when they click button
+- I made function displayItems(items) which show item and
+- made function setEventListener(items) which is filtered when they click button
 <img width="622" alt="스크린샷 2021-09-10 오후 7 14 32" src="https://user-images.githubusercontent.com/80943394/132838751-e7e1ee33-8479-4b2b-8a9f-443d1610c2ea.png">
 
 
