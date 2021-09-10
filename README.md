@@ -18,8 +18,8 @@ https://user-images.githubusercontent.com/80943394/132836736-d27d14e5-b27b-4893-
 
 3. Map 
 - Make new array which is 'item list' can be showed on display
-- creatHTMLString(item) : make item element dynamically on Javascript with string templete
-- displayItems(items) : I made new array using 'map' 
+- - displayItems(items) : I made new array using 'map'
+- creatHTMLString(item) : make item element dynamically on Javascript with string templete 
 <img width="872" alt="스크린샷 2021-09-10 오후 7 32 00" src="https://user-images.githubusercontent.com/80943394/132840749-a33acad7-288a-462c-8941-3a2cc7138229.png">
 
  4. data-key and data-value in html
