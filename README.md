@@ -22,14 +22,14 @@ https://user-images.githubusercontent.com/80943394/132836736-d27d14e5-b27b-4893-
 - creatHTMLString(item) : make item element dynamically on Javascript with string templete 
 <img width="872" alt="스크린샷 2021-09-10 오후 7 32 00" src="https://user-images.githubusercontent.com/80943394/132840749-a33acad7-288a-462c-8941-3a2cc7138229.png">
 
- 4. data-key and data-value in html
+ 4. Set data-key and data-value in html
  - Match of data information : make key and value on each buttons from 'index.html'
- - set 'data-key' and 'data-value' on each buttons (index.html)
+ 
 <img width="1004" alt="스크린샷 2021-09-10 오후 7 45 11" src="https://user-images.githubusercontent.com/80943394/132845314-71b9297e-0938-46fd-a9b5-e172915a7963.png">
 
 
-5. filter
-- so we can make this function and filter items
+5. filter<b>
+- so we can filter items
 - displayItems(items.filter(item => item[key] === value))
 
 <img width="872" alt="스크린샷 2021-09-10 오후 7 32 37" src="https://user-images.githubusercontent.com/80943394/132841950-650478c5-fbb5-4668-90ea-3d0b0f9c43ef.png">
