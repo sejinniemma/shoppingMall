@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/80943394/132836736-d27d14e5-b27b-4893-
 <img width="1004" alt="스크린샷 2021-09-10 오후 7 45 11" src="https://user-images.githubusercontent.com/80943394/132845314-71b9297e-0938-46fd-a9b5-e172915a7963.png">
 
 
-5. filter<b>
+5. filter
 - so we can filter items
 - displayItems(items.filter(item => item[key] === value))
 
