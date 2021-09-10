@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/80943394/132836736-d27d14e5-b27b-4893-
  4. data-key and data-value in html
  - Match of data information : make key and value on each buttons from 'index.html'
  - set 'data-key' and 'data-value' on each buttons (index.html)
-<img width="1004" alt="스크린샷 2021-09-10 오후 7 45 11" src="https://user-images.githubusercontent.com/80943394/132842168-c152cd37-4b8c-4f44-b749-5e0385645100.png">
+<img width="1004" alt="스크린샷 2021-09-10 오후 7 45 11" src="https://user-images.githubusercontent.com/80943394/132845314-71b9297e-0938-46fd-a9b5-e172915a7963.png">
 
 
 5. filter
