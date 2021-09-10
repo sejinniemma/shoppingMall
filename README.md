@@ -18,3 +18,6 @@ https://user-images.githubusercontent.com/80943394/132836736-d27d14e5-b27b-4893-
 - creatHTMLString(item) : make item element dynamically on Javascript with string templete
 - displayItems(items) : I made new array using 'map' 
 <img width="872" alt="스크린샷 2021-09-10 오후 7 32 00" src="https://user-images.githubusercontent.com/80943394/132840749-a33acad7-288a-462c-8941-3a2cc7138229.png">
+
+
+<img width="872" alt="스크린샷 2021-09-10 오후 7 32 37" src="https://user-images.githubusercontent.com/80943394/132841950-650478c5-fbb5-4668-90ea-3d0b0f9c43ef.png">
