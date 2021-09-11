@@ -30,6 +30,11 @@ https://user-images.githubusercontent.com/80943394/132836736-d27d14e5-b27b-4893-
 
 5. filter
 - so we can filter items
-- displayItems(items.filter(item => item[key] === value))
+- when you click 'logo' button,show all items
+- when you click other buttons,they are filtered
+- displayItems(items.filter(item => item[key] === value)) 
+-  item[key] = value of items from json
+-  value = value of button
+-  match two values whether they are same value or not and then filter
 
 <img width="872" alt="스크린샷 2021-09-10 오후 7 32 37" src="https://user-images.githubusercontent.com/80943394/132841950-650478c5-fbb5-4668-90ea-3d0b0f9c43ef.png">
